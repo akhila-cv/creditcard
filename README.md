@@ -3,7 +3,7 @@ array(['Time', 'V1', 'V2', 'V3', 'V4', 'V5', 'V6', 'V7', 'V8', 'V9',
        'V19', 'V20', 'V21', 'V22', 'V23', 'V24', 'V25', 'V26', 'V27',
        'V28', 'Amount'], dtype=object)
 
-creditcard
+creditcard file
 ==============================
 
 A credit card fraud detection project
